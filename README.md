@@ -1,4 +1,4 @@
-# Hackathon Spring2019 Challenge
+# Hackathon Spring 2019 Challenge
 
 ## Challenge Description
 
